@@ -1,0 +1,19 @@
+{
+  "name": "ops-blog-support",
+  "homepage": "https://github.com/ops-org/ops-blog-support",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
